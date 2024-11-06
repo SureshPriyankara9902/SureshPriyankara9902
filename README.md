@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Suresh Priyankara
+# 👋 Hi there! 
 
 <div align="center">
   
