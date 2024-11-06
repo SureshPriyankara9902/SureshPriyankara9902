@@ -3,8 +3,7 @@
 <div align="center">
   
 [![GitHub followers](https://img.shields.io/github/followers/SureshPriyankara9902?style=social)](https://github.com/SureshPriyankara9902)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/suresh-priyankara-753319284)
 
 </div>
 
@@ -70,13 +69,6 @@
 
 ---
 
-## 🎯 Latest Projects
-
-- [Project 1](https://github.com/SureshPriyankara9902/project1) - Brief description of the project
-- [Project 2](https://github.com/SureshPriyankara9902/project2) - Brief description of the project
-- [Project 3](https://github.com/SureshPriyankara9902/project3) - Brief description of the project
-
----
 
 ## 📫 Connect with Me
 
@@ -84,8 +76,8 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suresh.priyankara@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/suresh-priyankara-753319284)
+
 
 </div>
 
