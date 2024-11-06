@@ -9,7 +9,7 @@
 </div>
 
 <div align="center" style="background-color: white; padding: 20px; border-radius: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&weight=900&pause=1000&color=780c3b&background=FFFFFF&center=true&vCenter=true&width=800&lines=HI+I+am+Suresh+Priyankara;I+am+a+Web+Developer;I+like+Coding+and+Learning+New+Technologies!+💻">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&weight=900&pause=1000&color=780c3b&background=FFFFFF&center=true&vCenter=true&width=800&lines=HI+I+am+Suresh+Priyankara;I+like+Coding+and+Learning+New+Technologies!+💻;Don't+Forget+to+Follow+Me">
 </div>
 
 
