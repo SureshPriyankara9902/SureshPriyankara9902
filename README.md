@@ -3,7 +3,8 @@
 <div align="center">
   
 [![GitHub followers](https://img.shields.io/github/followers/SureshPriyankara9902?style=social&v=1)](https://github.com/SureshPriyankara9902)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/suresh-priyankara-753319284)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/suresh-priyankara-753319284)
+
 
 </div>
 
