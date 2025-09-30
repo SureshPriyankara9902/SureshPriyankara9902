@@ -36,13 +36,15 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![DART](https://img.shields.io/badge/-DART-000000?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 📚 Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Mysql](https://img.shields.io/badge/-Mysql-000000?style=for-the-badge&logo=mysql&logoColor=blue)
-![Mongodb](https://img.shields.io/badge/-Mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=blue)
+![Mysql](https://img.shields.io/badge/-Mysql-BA6416?style=for-the-badge&logo=mysql&logoColor=blue)
+![Mongodb](https://img.shields.io/badge/-Mongodb-126E0C?style=for-the-badge&logo=mongodb&logoColor=blue)
+![Flutter](https://img.shields.io/badge/-Flutter-106482?style=for-the-badge&logo=flutter&logoColor=blue)
 
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
