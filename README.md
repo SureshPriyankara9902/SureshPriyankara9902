@@ -17,10 +17,8 @@
 
 😊 I’m **Suresh Priyankara**  
 👦🏻 I'm a student at **Horizon Campus**  
-👀 I’m interested in **Software Development, AI/ML, UI/UX Design, and more**  
 🌱 Currently pursuing studies in **Information Technology**  
-🕺 I love collaborating on **software projects, machine learning models, and innovative UI/UX designs**  
-💞️ Looking to work on **web development, AI solutions, and user-centered designs**  
+🕺 I love collaborating on **software projects,web development, machine learning models, and innovative UI/UX designs**  
 📫 Email me at **suresh68004@gmail.com**   
 💬 Message me on WhatsApp **+94766476848**
 
