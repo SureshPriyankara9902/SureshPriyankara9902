@@ -85,15 +85,7 @@
 
 </div>
 
----
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SureshPriyankara9902&color=blueviolet&style=flat-square&label=Profile+Views" />
-</div>
 
----
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?username=SureshPriyankara9902" alt="Jokes Card" />
-</div>
 
